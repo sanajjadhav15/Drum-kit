@@ -17,7 +17,7 @@ This is a simple web application that simulates a drum kit, allowing users to pl
 
 ## How to Use
 
-1. Clone this repository to your local machine using `git clone https://github.com/yourusername/drum-kit.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/sanajjadhav15/Drum-kit.git`.
 2. Navigate to the project directory.
 3. Open `index.html` in your web browser.
 
